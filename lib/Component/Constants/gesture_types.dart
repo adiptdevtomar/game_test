@@ -1,0 +1,1 @@
+enum GestureTypes { swipe, keyboard }
